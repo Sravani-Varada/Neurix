@@ -47,7 +47,7 @@ The final output classifies files into:
 - **Streamlit**
 - **NumPy**
 - **Scikit-learn (Isolation Forest)**
-- 
+  
 ---
 
 ## 🎯 Intended Use Case
